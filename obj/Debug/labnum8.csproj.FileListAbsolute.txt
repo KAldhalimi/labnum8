@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\labnum8\labnum8\bin\Debug\labnum8.exe.config
+C:\Users\admin\source\repos\labnum8\labnum8\bin\Debug\labnum8.exe
+C:\Users\admin\source\repos\labnum8\labnum8\bin\Debug\labnum8.pdb
+C:\Users\admin\source\repos\labnum8\labnum8\obj\Debug\labnum8.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\labnum8\labnum8\obj\Debug\labnum8.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\labnum8\labnum8\obj\Debug\labnum8.exe
+C:\Users\admin\source\repos\labnum8\labnum8\obj\Debug\labnum8.pdb
